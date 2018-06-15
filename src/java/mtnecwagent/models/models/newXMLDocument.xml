@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><ns0:errorResponse xmlns:ns0="http://www.ericsson.com/lwac" errorcode="REFERENCE_ID_NOT_FOUND">
+    <arguments name="actual" value="164123481231711677326"/>
+</ns0:errorResponse>
+
+<?xml version="1.0" encoding="UTF-8"?><ns0:errorResponse xmlns:ns0="http://www.ericsson.com/lwac" errorcode="TRANSACTION_NOT_FOUND"/>
+
+<?xml version="1.0" encoding="UTF-8"?><ns0:errorResponse xmlns:ns0="http://www.ericsson.com/lwac" errorcode="INTERNAL_ERROR"/>
+
+<?xml version="1.0" encoding="UTF-8"?><ns0:gettransactionstatusresponse xmlns:ns0="http://www.ericsson.com/em/emm">
+    <transactionid>806147620</transactionid>
+    <status>SUCCESSFUL</status>
+</ns0:gettransactionstatusresponse>
+
+<?xml version="1.0" encoding="UTF-8"?><ns0:gettransactionstatusresponse xmlns:ns0="http://www.ericsson.com/em/emm">
+    <transactionid>806148619</transactionid>
+    <status>PENDING</status>
+</ns0:gettransactionstatusresponse>
+
+<?xml version="1.0" encoding="UTF-8"?><ns0:gettransactionstatusresponse xmlns:ns0="http://www.ericsson.com/em/emm">
+    <transactionid>806148680</transactionid>
+    <status>FAILED</status>
+</ns0:gettransactionstatusresponse>
